@@ -22,6 +22,13 @@ This Flutter application is a multi-functional shopping app that includes a spla
 
 ## Getting Started
 
+### Prerequisites
+
+- [Flutter](https://flutter.dev/docs/get-started/install) should be installed on your machine.
+- An IDE such as [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
+
+### Installation
+
 To run this project, ensure you have the Flutter SDK installed and configured. Follow the steps below:
 
 1. Clone the repository:
@@ -40,17 +47,13 @@ To run this project, ensure you have the Flutter SDK installed and configured. F
    ```bash
    flutter run
    ```
+### Running the App
 
-## File Structure
-
-```
-lib/
-├── main.dart               // Main entry point
-├── home_page.dart          // Home page with navigation bar
-├── cart_page.dart          // Cart page
-├── favorites_page.dart     // Favorites page
-└── history_page.dart       // Order history page
-```
+1. Connect your device or start an emulator.
+2. Run the app:
+   ```bash
+   flutter run
+   ```
 
 ## Screenshots
 <img src="project_images/splash.png" alt="Splash Screen" width="250" height="450">
@@ -64,9 +67,4 @@ lib/
 <img src="project_images/history.png" alt="History Screen" width="250" height="450">
 
 
-
-## Dependencies
-
-- [Flutter SDK](https://flutter.dev)
-- [Material Design](https://material.io)
 
