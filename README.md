@@ -54,7 +54,7 @@ lib/
 
 ## Screenshots
 
-![Splash Screen](path-to-splash-screen-image)
+![Splash Screen](project_images/splash.png)
 
 ![Home Screen](path-to-home-screen-image)
 
