@@ -53,12 +53,17 @@ lib/
 ```
 
 ## Screenshots
+<img src="project_images/splash.png" alt="Splash Screen" width="250" height="450">
 
-![Splash Screen](project_images/splash.png)
+<img src="project_images/home.png" alt="Home Screen" width="250" height="450">
 
-![Home Screen](path-to-home-screen-image)
+<img src="project_images/cart.png" alt="Cart Screen" width="250" height="450">
 
-![Cart Screen](path-to-cart-screen-image)
+<img src="project_images/favorites.png" alt="Favorites Screen" width="250" height="450">
+
+<img src="project_images/history.png" alt="History Screen" width="250" height="450">
+
+
 
 ## Dependencies
 
